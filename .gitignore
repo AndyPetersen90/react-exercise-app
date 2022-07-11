@@ -12,6 +12,7 @@
 /build
 
 # misc
+MyKey.txt
 .env
 .DS_Store
 .env.local
